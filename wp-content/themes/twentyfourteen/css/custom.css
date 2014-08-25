@@ -1,0 +1,270 @@
+
+@font-face {
+    font-family: 'averialightitalic';
+    src: url('../fonts/averia-lightitalic-webfont.eot');
+    src: url('../fonts/averia-lightitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/averia-lightitalic-webfont.woff') format('woff'),
+         url('../fonts/averia-lightitalic-webfont.ttf') format('truetype'),
+         url('../fonts/averia-lightitalic-webfont.svg#averialightitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'averialight';
+    src: url('../fonts/averia-light-webfont.eot');
+    src: url('../fonts/averia-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/averia-light-webfont.woff') format('woff'),
+         url('../fonts/averia-light-webfont.ttf') format('truetype'),
+         url('../fonts/averia-light-webfont.svg#averialight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'averiabolditalic';
+    src: url('../fonts/averia-bolditalic-webfont.eot');
+    src: url('../fonts/averia-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/averia-bolditalic-webfont.woff') format('woff'),
+         url('../fonts/averia-bolditalic-webfont.ttf') format('truetype'),
+         url('../fonts/averia-bolditalic-webfont.svg#averiabolditalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'averiabold';
+    src: url('../fonts/averia-bold-webfont.eot');
+    src: url('../fonts/averia-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/averia-bold-webfont.woff') format('woff'),
+         url('../fonts/averia-bold-webfont.ttf') format('truetype'),
+         url('../fonts/averia-bold-webfont.svg#averiabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'averiagruesa';
+    src: url('../fonts/averia-gruesa-webfont.eot');
+    src: url('../fonts/averia-gruesa-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/averia-gruesa-webfont.woff') format('woff'),
+         url('../fonts/averia-gruesa-webfont.ttf') format('truetype'),
+         url('../fonts/averia-gruesa-webfont.svg#averiagruesa') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'duru_sansregular';
+    src: url('../fonts/durusans-regular-webfont.eot');
+    src: url('../fonts/durusans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/durusans-regular-webfont.woff') format('woff'),
+         url('../fonts/durusans-regular-webfont.ttf') format('truetype'),
+         url('../fonts/durusans-regular-webfont.svg#duru_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'averiaitalic';
+    src: url('../fonts/averia-italic-webfont.eot');
+    src: url('../fonts/averia-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/averia-italic-webfont.woff') format('woff'),
+         url('../fonts/averia-italic-webfont.ttf') format('truetype'),
+         url('../fonts/averia-italic-webfont.svg#averiaitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'averiaregular';
+    src: url('../fonts/averia-regular-webfont.eot');
+    src: url('../fonts/averia-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/averia-regular-webfont.woff') format('woff'),
+         url('../fonts/averia-regular-webfont.ttf') format('truetype'),
+         url('../fonts/averia-regular-webfont.svg#averiaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+/*//social icon*/
+div#short_code_si_icon {
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	text-align: right !important;
+	padding-right: 20px;
+}
+
+#masthead {
+	background-image: url('../images/bluejeans2.png');
+	background-repeat: repeat;
+	max-width: 1600px;
+	width: 100%;
+}
+
+.header-logo {
+	max-width: 270px;
+	margin: 20px;
+	border-radius: 8px;
+	border: 6px solid white;
+	width: 100%;
+}
+.site-header .site-title {
+	color: white;
+	font-size: 48px;
+	padding: 0 20px 20px;
+	font-family: "averialight";
+}
+,.site-header .site-description {
+    color: white;
+    font-weight: 500;
+    padding-left: 20px;
+}
+.site-header .site-title:hover {
+ 	text-decoration: none; 
+}
+
+.site-header .home-link {
+}
+.navbar {
+	background: #542c5b;
+	background: -moz-linear-gradient(top, #542c5b 0%, #680e82 50%, #6b2575 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#542c5b), color-stop(50%,#680e82), color-stop(100%,#6b2575));
+	background: -webkit-linear-gradient(top, #542c5b 0%,#680e82 50%,#6b2575 100%);
+	background: -o-linear-gradient(top, #542c5b 0%,#680e82 50%,#6b2575 100%);
+	background: -ms-linear-gradient(top, #542c5b 0%,#680e82 50%,#6b2575 100%);
+	background: linear-gradient(to bottom, #542c5b 0%,#680e82 50%,#6b2575 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#542c5b', endColorstr='#6b2575',GradientType=0 );
+}
+.nav-menu li a {
+	color: #ffffff;
+	font-family: "duru_sansregular";
+	font-size: 20px;
+	line-height: 2;
+	padding: 5px 20px;
+}
+.nav-menu li:hover > a, .nav-menu li a:hover, .nav-menu li:focus > a, .nav-menu li a:focus {
+	color: #fff;
+	background: #bc9ed6;
+	background: -moz-linear-gradient(top, #bc9ed6 0%, #ba93c6 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#bc9ed6), color-stop(100%,#ba93c6));
+	background: -webkit-linear-gradient(top, #bc9ed6 0%,#ba93c6 100%);
+	background: -o-linear-gradient(top, #bc9ed6 0%,#ba93c6 100%);
+	background: -ms-linear-gradient(top, #bc9ed6 0%,#ba93c6 100%);
+	background: linear-gradient(to bottom, #bc9ed6 0%,#ba93c6 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bc9ed6', endColorstr='#ba93c6',GradientType=0 );
+}
+.nav-menu .current_page_item > a, .nav-menu .current_page_ancestor > a, .nav-menu .current-menu-item > a, .nav-menu .current-menu-ancestor > a {
+	color: floralwhite;
+	font-weight: bold;
+	background: #bc9ed6;
+	background: -moz-linear-gradient(top, #bc9ed6 0%, #ba93c6 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#bc9ed6), color-stop(100%,#ba93c6));
+	background: -webkit-linear-gradient(top, #bc9ed6 0%,#ba93c6 100%);
+	background: -o-linear-gradient(top, #bc9ed6 0%,#ba93c6 100%);
+	background: -ms-linear-gradient(top, #bc9ed6 0%,#ba93c6 100%);
+	background: linear-gradient(to bottom, #bc9ed6 0%,#ba93c6 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bc9ed6', endColorstr='#ba93c6',GradientType=0 );
+}
+.personal-donation {
+    background-image: url('../images/purplebackground.jpg');
+    background-repeat: no-repeat;
+    width: 100%;
+    position: relative;
+    max-width: 380px;
+    padding: 20px 0;
+    box-shadow: 5px 7px 10px 6px;
+}
+.user-donation {
+    max-width: 300px;
+    width: 100%;
+    margin: 24px auto;
+    left: 0;
+    right: 0;
+    display: block;
+}
+.sidebar-image-text h2, 
+.sidebar-image-text p {
+    margin-left: 20px;
+    color: #ffffff;
+}
+.donate-button {
+    -moz-box-shadow:inset 0px 0px 0px 0px #454454;
+    -webkit-box-shadow:inset 0px 0px 0px 0px #454454;
+    box-shadow:inset 0px 0px 0px 0px #454454;
+    background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #231252), color-stop(1, #4640c2) );
+    background:-moz-linear-gradient( center top, #231252 5%, #4640c2 100% );
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#231252', endColorstr='#4640c2');
+    background-color:#231252;
+    -webkit-border-top-left-radius:16px;
+    -moz-border-radius-topleft:16px;
+    border-top-left-radius:16px;
+    -webkit-border-top-right-radius:16px;
+    -moz-border-radius-topright:16px;
+    border-top-right-radius:16px;
+    -webkit-border-bottom-right-radius:16px;
+    -moz-border-radius-bottomright:16px;
+    border-bottom-right-radius:16px;
+    -webkit-border-bottom-left-radius:16px;
+    -moz-border-radius-bottomleft:16px;
+    border-bottom-left-radius:16px;
+    text-indent:0;
+    border:1px solid #373647;
+    display:block;
+    color:#ffffff;
+    font-family:Arial Black;
+    font-size:21px;
+    font-weight:bold;
+    font-style:normal;
+    height:45px;
+    line-height:45px;
+    width:200px;
+    text-decoration:none;
+    text-align:center;
+    text-shadow:5px 7px 6px #6245c7;
+    margin: 0 auto;
+}
+a.donate-button:visited {color:white;}
+.donate-button:hover {
+    background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #4640c2), color-stop(1, #231252) );
+    background:-moz-linear-gradient( center top, #4640c2 5%, #231252 100% );
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#4640c2', endColorstr='#231252');
+    color:#ffffff;
+    background-color:#4640c2;
+    text-decoration:none;
+}.donate-button:active {
+    position:relative;
+    top:1px;
+}

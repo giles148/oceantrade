@@ -232,6 +232,13 @@ function twentyfourteen_scripts() {
 	// Load our main stylesheet.
 	wp_enqueue_style( 'twentyfourteen-style', get_stylesheet_uri(), array( 'genericons' ) );
 
+
+//load custom css
+	wp_enqueue_style( 'bootstrap', get_template_directory_uri() . '/css/bootstrap.min.css', array(), '1.0');
+    wp_enqueue_style( 'responsive', get_template_directory_uri() . '/css/responsive.css', array(), '1.0');
+    wp_enqueue_style( 'custom', get_template_directory_uri() . '/css/custom.css', array(), '1.0');
+
+
 	// Load the Internet Explorer specific stylesheet.
 	wp_enqueue_style( 'twentyfourteen-ie', get_template_directory_uri() . '/css/ie.css', array( 'twentyfourteen-style', 'genericons' ), '20131205' );
 	wp_style_add_data( 'twentyfourteen-ie', 'conditional', 'lt IE 9' );

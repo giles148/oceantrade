@@ -71,6 +71,8 @@ $table_prefix  = 'wp_';
  */
 define('WPLANG', '');
 
+define('WP_ENV', 'development');
+
 /**
  * For developers: WordPress debugging mode.
  *

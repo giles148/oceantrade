@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7063742-6b6a-49d4-acb4-518ee734a455" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/front-page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-includes/.htaccess" />
     </list>
     <ignored path="oceantrade.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,13 +34,100 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="front-page.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="front-page.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/front-page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="11" selection-start="751" selection-end="751" vertical-scroll-proportion="0.34895834" vertical-offset="174" max-vertical-offset="810">
+            <state line="25" column="11" selection-start="751" selection-end="751" vertical-scroll-proportion="-8.375" vertical-offset="174" max-vertical-offset="810">
               <folding>
                 <element signature="e#6#344#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-admin/user/about.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="195">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-admin/user/admin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="480">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="credits.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-admin/user/credits.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="195">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="freedoms.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-admin/user/freedoms.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="195">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="profile.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-admin/user/profile.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="180">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-admin/about.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="24.375" vertical-offset="585" max-vertical-offset="4275">
+              <folding>
+                <marker date="1409084466000" expanded="true" signature="4660:7743" placeholder="{&quot;type&quot;: &quot;audio&quot;...}" />
+                <marker date="1409084466000" expanded="true" signature="4787:7737" placeholder="[...]" />
+                <marker date="1409084466000" expanded="true" signature="4788:5288" placeholder="{&quot;src&quot;: &quot;&lt;?php echo $wp_host ?&gt;AintMisbehavin.mp3&quot;...}" />
+                <marker date="1409084466000" expanded="true" signature="4945:5109" placeholder="{&quot;artist&quot;: &quot;Louis Armstrong &amp; His Orchestra&quot;...}" />
+                <marker date="1409084466000" expanded="true" signature="5295:5785" placeholder="{&quot;src&quot;: &quot;&lt;?php echo $wp_host ?&gt;JellyRollMorton-BuddyBoldensBlues.mp3&quot;...}" />
+                <marker date="1409084466000" expanded="true" signature="5474:5624" placeholder="{&quot;artist&quot;: &quot;Jelly Roll Morten&quot;...}" />
+                <marker date="1409084466000" expanded="true" signature="5792:6278" placeholder="{&quot;src&quot;: &quot;&lt;?php echo $wp_host ?&gt;DavenportBlues.mp3&quot;...}" />
+                <marker date="1409084466000" expanded="true" signature="5947:6117" placeholder="{&quot;artist&quot;: &quot;Bix Beiderbecke &amp; His Rhythm Jugglers&quot;...}" />
+                <marker date="1409084466000" expanded="true" signature="6285:6754" placeholder="{&quot;src&quot;: &quot;&lt;?php echo $wp_host ?&gt;WolverineBlues.mp3&quot;...}" />
+                <marker date="1409084466000" expanded="true" signature="6440:6593" placeholder="{&quot;artist&quot;: &quot;Benny Goodman's Boys&quot;...}" />
+                <marker date="1409084466000" expanded="true" signature="6761:7237" placeholder="{&quot;src&quot;: &quot;&lt;?php echo $wp_host ?&gt;Louisiana_Five-Dixie_Blues-1919.mp3&quot;...}" />
+                <marker date="1409084466000" expanded="true" signature="6929:7076" placeholder="{&quot;artist&quot;: &quot;Louisiana Five&quot;...}" />
+                <marker date="1409084466000" expanded="true" signature="7244:7736" placeholder="{&quot;src&quot;: &quot;&lt;?php echo $wp_host ?&gt;Johnny_Hodges_Orchestra-Squaty_Roo-1941.mp3&quot;...}" />
+                <marker date="1409084466000" expanded="true" signature="7419:7575" placeholder="{&quot;artist&quot;: &quot;Johnny Hodges Orchestra&quot;...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wp-signup.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-signup.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="11115">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".htaccess" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-includes/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="11" selection-start="202" selection-end="202" vertical-scroll-proportion="0.18197574" vertical-offset="0" max-vertical-offset="577">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -59,6 +146,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/wp-content/themes/twentyfourteen/front-page.php" />
+        <option value="$PROJECT_DIR$/wp-includes/.htaccess" />
       </list>
     </option>
   </component>
@@ -123,61 +211,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oceantrade" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oceantrade" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oceantrade" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oceantrade" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="twentyfourteen" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oceantrade" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oceantrade" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-admin" />
+              <option name="myItemId" value="wp-includes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -216,10 +250,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="22" width="1615" height="1028" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32905984" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32905984" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -257,10 +291,81 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/front-page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="11" selection-start="751" selection-end="751" vertical-scroll-proportion="0.34895834" vertical-offset="174" max-vertical-offset="810">
+        <state line="25" column="11" selection-start="751" selection-end="751" vertical-scroll-proportion="-8.375" vertical-offset="174" max-vertical-offset="810">
           <folding>
             <element signature="e#6#344#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/user/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/user/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/user/credits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/user/freedoms.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/user/profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="24.375" vertical-offset="585" max-vertical-offset="4275">
+          <folding>
+            <marker date="1409084466000" expanded="true" signature="4660:7743" placeholder="{&quot;type&quot;: &quot;audio&quot;...}" />
+            <marker date="1409084466000" expanded="true" signature="4787:7737" placeholder="[...]" />
+            <marker date="1409084466000" expanded="true" signature="4788:5288" placeholder="{&quot;src&quot;: &quot;&lt;?php echo $wp_host ?&gt;AintMisbehavin.mp3&quot;...}" />
+            <marker date="1409084466000" expanded="true" signature="4945:5109" placeholder="{&quot;artist&quot;: &quot;Louis Armstrong &amp; His Orchestra&quot;...}" />
+            <marker date="1409084466000" expanded="true" signature="5295:5785" placeholder="{&quot;src&quot;: &quot;&lt;?php echo $wp_host ?&gt;JellyRollMorton-BuddyBoldensBlues.mp3&quot;...}" />
+            <marker date="1409084466000" expanded="true" signature="5474:5624" placeholder="{&quot;artist&quot;: &quot;Jelly Roll Morten&quot;...}" />
+            <marker date="1409084466000" expanded="true" signature="5792:6278" placeholder="{&quot;src&quot;: &quot;&lt;?php echo $wp_host ?&gt;DavenportBlues.mp3&quot;...}" />
+            <marker date="1409084466000" expanded="true" signature="5947:6117" placeholder="{&quot;artist&quot;: &quot;Bix Beiderbecke &amp; His Rhythm Jugglers&quot;...}" />
+            <marker date="1409084466000" expanded="true" signature="6285:6754" placeholder="{&quot;src&quot;: &quot;&lt;?php echo $wp_host ?&gt;WolverineBlues.mp3&quot;...}" />
+            <marker date="1409084466000" expanded="true" signature="6440:6593" placeholder="{&quot;artist&quot;: &quot;Benny Goodman's Boys&quot;...}" />
+            <marker date="1409084466000" expanded="true" signature="6761:7237" placeholder="{&quot;src&quot;: &quot;&lt;?php echo $wp_host ?&gt;Louisiana_Five-Dixie_Blues-1919.mp3&quot;...}" />
+            <marker date="1409084466000" expanded="true" signature="6929:7076" placeholder="{&quot;artist&quot;: &quot;Louisiana Five&quot;...}" />
+            <marker date="1409084466000" expanded="true" signature="7244:7736" placeholder="{&quot;src&quot;: &quot;&lt;?php echo $wp_host ?&gt;Johnny_Hodges_Orchestra-Squaty_Roo-1941.mp3&quot;...}" />
+            <marker date="1409084466000" expanded="true" signature="7419:7575" placeholder="{&quot;artist&quot;: &quot;Johnny Hodges Orchestra&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-signup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11115">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="11" selection-start="202" selection-end="202" vertical-scroll-proportion="0.18197574" vertical-offset="0" max-vertical-offset="577">
+          <folding />
         </state>
       </provider>
     </entry>

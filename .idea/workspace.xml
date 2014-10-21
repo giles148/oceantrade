@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7063742-6b6a-49d4-acb4-518ee734a455" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-includes/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="oceantrade.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -95,6 +95,26 @@
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="24.375" vertical-offset="585" max-vertical-offset="4275">
               <folding>
+                <marker date="1409084466000" expanded="true" signature="628:11414" placeholder="..." />
+                <marker date="1409084466000" expanded="true" signature="995:1243" placeholder="..." />
+                <marker date="1409084466000" expanded="true" signature="1048:1091" placeholder="..." />
+                <marker date="1409084466000" expanded="true" signature="1129:1163" placeholder="..." />
+                <marker date="1409084466000" expanded="true" signature="1202:1237" placeholder="..." />
+                <marker date="1409084466000" expanded="true" signature="1283:2067" placeholder="..." />
+                <marker date="1409084466000" expanded="true" signature="1394:1733" placeholder="..." />
+                <marker date="1409084466000" expanded="true" signature="1738:2060" placeholder="..." />
+                <marker date="1409084466000" expanded="true" signature="2092:7993" placeholder="..." />
+                <marker date="1409084466000" expanded="true" signature="2122:2637" placeholder="..." />
+                <marker date="1409084466000" expanded="true" signature="2782:3874" placeholder="..." />
+                <marker date="1409084466000" expanded="true" signature="2804:3221" placeholder="..." />
+                <marker date="1409084466000" expanded="true" signature="2921:3212" placeholder="..." />
+                <marker date="1409084466000" expanded="true" signature="3243:3577" placeholder="..." />
+                <marker date="1409084466000" expanded="true" signature="3612:3866" placeholder="..." />
+                <marker date="1409084466000" expanded="true" signature="3925:7986" placeholder="..." />
+                <marker date="1409084466000" expanded="true" signature="3947:4196" placeholder="..." />
+                <marker date="1409084466000" expanded="true" signature="4231:7978" placeholder="..." />
+                <marker date="1409084466000" expanded="true" signature="4296:7761" placeholder="..." />
+                <marker date="1409084466000" expanded="true" signature="4659:7751" placeholder="..." />
                 <marker date="1409084466000" expanded="true" signature="4660:7743" placeholder="{&quot;type&quot;: &quot;audio&quot;...}" />
                 <marker date="1409084466000" expanded="true" signature="4787:7737" placeholder="[...]" />
                 <marker date="1409084466000" expanded="true" signature="4788:5288" placeholder="{&quot;src&quot;: &quot;&lt;?php echo $wp_host ?&gt;AintMisbehavin.mp3&quot;...}" />
@@ -109,6 +129,18 @@
                 <marker date="1409084466000" expanded="true" signature="6929:7076" placeholder="{&quot;artist&quot;: &quot;Louisiana Five&quot;...}" />
                 <marker date="1409084466000" expanded="true" signature="7244:7736" placeholder="{&quot;src&quot;: &quot;&lt;?php echo $wp_host ?&gt;Johnny_Hodges_Orchestra-Squaty_Roo-1941.mp3&quot;...}" />
                 <marker date="1409084466000" expanded="true" signature="7419:7575" placeholder="{&quot;artist&quot;: &quot;Johnny Hodges Orchestra&quot;...}" />
+                <marker date="1409084466000" expanded="true" signature="8034:9400" placeholder="..." />
+                <marker date="1409084466000" expanded="true" signature="8077:9393" placeholder="..." />
+                <marker date="1409084466000" expanded="true" signature="8085:8829" placeholder="..." />
+                <marker date="1409084466000" expanded="true" signature="8858:9385" placeholder="..." />
+                <marker date="1409084466000" expanded="true" signature="9446:11413" placeholder="..." />
+                <marker date="1409084466000" expanded="true" signature="9535:10928" placeholder="..." />
+                <marker date="1409084466000" expanded="true" signature="9543:9959" placeholder="..." />
+                <marker date="1409084466000" expanded="true" signature="9967:10396" placeholder="..." />
+                <marker date="1409084466000" expanded="true" signature="10425:10921" placeholder="..." />
+                <marker date="1409084466000" expanded="true" signature="10969:11405" placeholder="..." />
+                <marker date="1409084466000" expanded="true" signature="11125:11229" placeholder="..." />
+                <marker date="1409084466000" expanded="true" signature="11303:11398" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -118,15 +150,32 @@
         <entry file="file://$PROJECT_DIR$/wp-signup.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="11115">
-              <folding />
+              <folding>
+                <marker date="1409084467000" expanded="true" signature="1037:1806" placeholder="..." />
+                <marker date="1409084467000" expanded="true" signature="2024:25517" placeholder="..." />
+                <marker date="1409084467000" expanded="true" signature="2050:25510" placeholder="..." />
+                <marker date="1409084467000" expanded="true" signature="3905:4803" placeholder="..." />
+                <marker date="1409084467000" expanded="true" signature="3939:4795" placeholder="..." />
+                <marker date="1409084467000" expanded="false" signature="4107:4117" placeholder="..." />
+                <marker date="1409084467000" expanded="true" signature="4178:4451" placeholder="..." />
+                <marker date="1409084467000" expanded="true" signature="4510:4782" placeholder="..." />
+                <marker date="1409084467000" expanded="true" signature="9097:9291" placeholder="..." />
+                <marker date="1409084467000" expanded="true" signature="9484:10113" placeholder="..." />
+                <marker date="1409084467000" expanded="true" signature="12380:12635" placeholder="..." />
+                <marker date="1409084467000" expanded="true" signature="14220:15295" placeholder="..." />
+                <marker date="1409084467000" expanded="true" signature="14477:15172" placeholder="..." />
+                <marker date="1409084467000" expanded="true" signature="18508:19055" placeholder="..." />
+                <marker date="1409084467000" expanded="true" signature="21457:21566" placeholder="..." />
+                <marker date="1409084467000" expanded="true" signature="21588:22051" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name=".htaccess" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-includes/.htaccess">
+        <entry file="file://$PROJECT_DIR$/.htaccess">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="11" selection-start="202" selection-end="202" vertical-scroll-proportion="0.18197574" vertical-offset="0" max-vertical-offset="577">
+            <state line="7" column="11" selection-start="202" selection-end="202" vertical-scroll-proportion="0.33546326" vertical-offset="0" max-vertical-offset="313">
               <folding />
             </state>
           </provider>
@@ -201,20 +250,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oceantrade" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oceantrade" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-includes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -222,6 +257,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -253,7 +293,7 @@
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32905984" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.6111111" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -337,6 +377,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="24.375" vertical-offset="585" max-vertical-offset="4275">
           <folding>
+            <marker date="1409084466000" expanded="true" signature="628:11414" placeholder="..." />
+            <marker date="1409084466000" expanded="true" signature="995:1243" placeholder="..." />
+            <marker date="1409084466000" expanded="true" signature="1048:1091" placeholder="..." />
+            <marker date="1409084466000" expanded="true" signature="1129:1163" placeholder="..." />
+            <marker date="1409084466000" expanded="true" signature="1202:1237" placeholder="..." />
+            <marker date="1409084466000" expanded="true" signature="1283:2067" placeholder="..." />
+            <marker date="1409084466000" expanded="true" signature="1394:1733" placeholder="..." />
+            <marker date="1409084466000" expanded="true" signature="1738:2060" placeholder="..." />
+            <marker date="1409084466000" expanded="true" signature="2092:7993" placeholder="..." />
+            <marker date="1409084466000" expanded="true" signature="2122:2637" placeholder="..." />
+            <marker date="1409084466000" expanded="true" signature="2782:3874" placeholder="..." />
+            <marker date="1409084466000" expanded="true" signature="2804:3221" placeholder="..." />
+            <marker date="1409084466000" expanded="true" signature="2921:3212" placeholder="..." />
+            <marker date="1409084466000" expanded="true" signature="3243:3577" placeholder="..." />
+            <marker date="1409084466000" expanded="true" signature="3612:3866" placeholder="..." />
+            <marker date="1409084466000" expanded="true" signature="3925:7986" placeholder="..." />
+            <marker date="1409084466000" expanded="true" signature="3947:4196" placeholder="..." />
+            <marker date="1409084466000" expanded="true" signature="4231:7978" placeholder="..." />
+            <marker date="1409084466000" expanded="true" signature="4296:7761" placeholder="..." />
+            <marker date="1409084466000" expanded="true" signature="4659:7751" placeholder="..." />
             <marker date="1409084466000" expanded="true" signature="4660:7743" placeholder="{&quot;type&quot;: &quot;audio&quot;...}" />
             <marker date="1409084466000" expanded="true" signature="4787:7737" placeholder="[...]" />
             <marker date="1409084466000" expanded="true" signature="4788:5288" placeholder="{&quot;src&quot;: &quot;&lt;?php echo $wp_host ?&gt;AintMisbehavin.mp3&quot;...}" />
@@ -351,6 +411,18 @@
             <marker date="1409084466000" expanded="true" signature="6929:7076" placeholder="{&quot;artist&quot;: &quot;Louisiana Five&quot;...}" />
             <marker date="1409084466000" expanded="true" signature="7244:7736" placeholder="{&quot;src&quot;: &quot;&lt;?php echo $wp_host ?&gt;Johnny_Hodges_Orchestra-Squaty_Roo-1941.mp3&quot;...}" />
             <marker date="1409084466000" expanded="true" signature="7419:7575" placeholder="{&quot;artist&quot;: &quot;Johnny Hodges Orchestra&quot;...}" />
+            <marker date="1409084466000" expanded="true" signature="8034:9400" placeholder="..." />
+            <marker date="1409084466000" expanded="true" signature="8077:9393" placeholder="..." />
+            <marker date="1409084466000" expanded="true" signature="8085:8829" placeholder="..." />
+            <marker date="1409084466000" expanded="true" signature="8858:9385" placeholder="..." />
+            <marker date="1409084466000" expanded="true" signature="9446:11413" placeholder="..." />
+            <marker date="1409084466000" expanded="true" signature="9535:10928" placeholder="..." />
+            <marker date="1409084466000" expanded="true" signature="9543:9959" placeholder="..." />
+            <marker date="1409084466000" expanded="true" signature="9967:10396" placeholder="..." />
+            <marker date="1409084466000" expanded="true" signature="10425:10921" placeholder="..." />
+            <marker date="1409084466000" expanded="true" signature="10969:11405" placeholder="..." />
+            <marker date="1409084466000" expanded="true" signature="11125:11229" placeholder="..." />
+            <marker date="1409084466000" expanded="true" signature="11303:11398" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -358,13 +430,30 @@
     <entry file="file://$PROJECT_DIR$/wp-signup.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11115">
-          <folding />
+          <folding>
+            <marker date="1409084467000" expanded="true" signature="1037:1806" placeholder="..." />
+            <marker date="1409084467000" expanded="true" signature="2024:25517" placeholder="..." />
+            <marker date="1409084467000" expanded="true" signature="2050:25510" placeholder="..." />
+            <marker date="1409084467000" expanded="true" signature="3905:4803" placeholder="..." />
+            <marker date="1409084467000" expanded="true" signature="3939:4795" placeholder="..." />
+            <marker date="1409084467000" expanded="false" signature="4107:4117" placeholder="..." />
+            <marker date="1409084467000" expanded="true" signature="4178:4451" placeholder="..." />
+            <marker date="1409084467000" expanded="true" signature="4510:4782" placeholder="..." />
+            <marker date="1409084467000" expanded="true" signature="9097:9291" placeholder="..." />
+            <marker date="1409084467000" expanded="true" signature="9484:10113" placeholder="..." />
+            <marker date="1409084467000" expanded="true" signature="12380:12635" placeholder="..." />
+            <marker date="1409084467000" expanded="true" signature="14220:15295" placeholder="..." />
+            <marker date="1409084467000" expanded="true" signature="14477:15172" placeholder="..." />
+            <marker date="1409084467000" expanded="true" signature="18508:19055" placeholder="..." />
+            <marker date="1409084467000" expanded="true" signature="21457:21566" placeholder="..." />
+            <marker date="1409084467000" expanded="true" signature="21588:22051" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-includes/.htaccess">
+    <entry file="file://$PROJECT_DIR$/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="11" selection-start="202" selection-end="202" vertical-scroll-proportion="0.18197574" vertical-offset="0" max-vertical-offset="577">
+        <state line="7" column="11" selection-start="202" selection-end="202" vertical-scroll-proportion="0.33546326" vertical-offset="0" max-vertical-offset="313">
           <folding />
         </state>
       </provider>
